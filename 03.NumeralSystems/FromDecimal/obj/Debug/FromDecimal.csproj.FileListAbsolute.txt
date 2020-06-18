@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\FromDecimal\bin\Debug\FromDecimal.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\FromDecimal\bin\Debug\FromDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\FromDecimal\bin\Debug\FromDecimal.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\FromDecimal\obj\Debug\FromDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\FromDecimal\obj\Debug\FromDecimal.pdb

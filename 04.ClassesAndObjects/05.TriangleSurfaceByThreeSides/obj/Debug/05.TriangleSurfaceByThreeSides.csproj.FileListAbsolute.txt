@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\05.TriangleSurfaceByThreeSides\bin\Debug\05.TriangleSurfaceByThreeSides.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\05.TriangleSurfaceByThreeSides\bin\Debug\05.TriangleSurfaceByThreeSides.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\05.TriangleSurfaceByThreeSides\bin\Debug\05.TriangleSurfaceByThreeSides.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\05.TriangleSurfaceByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\05.TriangleSurfaceByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\05.TriangleSurfaceByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.pdb

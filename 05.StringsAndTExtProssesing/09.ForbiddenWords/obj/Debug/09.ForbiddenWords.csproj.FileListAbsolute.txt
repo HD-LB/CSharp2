@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.pdb

@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\04.SubstringInText\bin\Debug\04.SubstringInText.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\04.SubstringInText\bin\Debug\04.SubstringInText.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\04.SubstringInText\bin\Debug\04.SubstringInText.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\04.SubstringInText\obj\Debug\04.SubstringInText.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\04.SubstringInText\obj\Debug\04.SubstringInText.pdb

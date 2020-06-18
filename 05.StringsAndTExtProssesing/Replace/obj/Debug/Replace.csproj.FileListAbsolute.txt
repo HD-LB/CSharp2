@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\Replace\bin\Debug\Replace.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\Replace\bin\Debug\Replace.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\Replace\bin\Debug\Replace.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\Replace\obj\Debug\Replace.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\Replace\obj\Debug\Replace.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\Replace\obj\Debug\Replace.pdb

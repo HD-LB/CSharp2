@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\NumeralSystems\08.BinaryShort\obj\Debug\08.BinaryShort.pdb

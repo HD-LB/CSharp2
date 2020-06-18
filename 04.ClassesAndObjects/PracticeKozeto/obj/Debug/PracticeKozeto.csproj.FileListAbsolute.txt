@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeKozeto\bin\Debug\PracticeKozeto.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeKozeto\bin\Debug\PracticeKozeto.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeKozeto\bin\Debug\PracticeKozeto.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeKozeto\obj\Debug\PracticeKozeto.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeKozeto\obj\Debug\PracticeKozeto.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeKozeto\obj\Debug\PracticeKozeto.pdb

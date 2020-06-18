@@ -1,0 +1,7 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\CSharp2TestPractice2\01.MultiverseCommunication\bin\Debug\01.MultiverseCommunication.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\01.MultiverseCommunication\bin\Debug\01.MultiverseCommunication.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\01.MultiverseCommunication\bin\Debug\01.MultiverseCommunication.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\01.MultiverseCommunication\bin\Debug\01.MultiverseCommunication.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\01.MultiverseCommunication\obj\Debug\01.MultiverseCommunication.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\01.MultiverseCommunication\obj\Debug\01.MultiverseCommunication.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\01.MultiverseCommunication\obj\Debug\01.MultiverseCommunication.pdb

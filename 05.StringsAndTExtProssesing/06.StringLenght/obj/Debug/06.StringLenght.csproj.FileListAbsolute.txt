@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\06.StringLenght\bin\Debug\06.StringLenght.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\06.StringLenght\bin\Debug\06.StringLenght.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\06.StringLenght\bin\Debug\06.StringLenght.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\06.StringLenght\obj\Debug\06.StringLenght.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\06.StringLenght\obj\Debug\06.StringLenght.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\06.StringLenght\obj\Debug\06.StringLenght.pdb

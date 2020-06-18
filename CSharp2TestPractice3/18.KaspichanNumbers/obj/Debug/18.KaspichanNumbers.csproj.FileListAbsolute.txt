@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\18.KaspichanNumbers\bin\Debug\18.KaspichanNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\18.KaspichanNumbers\bin\Debug\18.KaspichanNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\18.KaspichanNumbers\bin\Debug\18.KaspichanNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\18.KaspichanNumbers\obj\Debug\18.KaspichanNumbers.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\18.KaspichanNumbers\obj\Debug\18.KaspichanNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\18.KaspichanNumbers\obj\Debug\18.KaspichanNumbers.pdb

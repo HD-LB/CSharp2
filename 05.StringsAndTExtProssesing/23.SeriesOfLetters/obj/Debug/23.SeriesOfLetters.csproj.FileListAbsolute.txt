@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.pdb

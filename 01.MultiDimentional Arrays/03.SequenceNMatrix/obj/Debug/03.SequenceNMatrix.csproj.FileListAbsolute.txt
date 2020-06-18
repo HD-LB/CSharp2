@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\MultiDimentional Arrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\MultiDimentional Arrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\MultiDimentional Arrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\MultiDimentional Arrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\MultiDimentional Arrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\MultiDimentional Arrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.pdb

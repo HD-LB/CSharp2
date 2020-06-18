@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\04.VariableLenghtCoding\bin\Debug\04.VariableLenghtCoding.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\04.VariableLenghtCoding\bin\Debug\04.VariableLenghtCoding.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\04.VariableLenghtCoding\bin\Debug\04.VariableLenghtCoding.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\04.VariableLenghtCoding\obj\Debug\04.VariableLenghtCoding.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\04.VariableLenghtCoding\obj\Debug\04.VariableLenghtCoding.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\04.VariableLenghtCoding\obj\Debug\04.VariableLenghtCoding.pdb

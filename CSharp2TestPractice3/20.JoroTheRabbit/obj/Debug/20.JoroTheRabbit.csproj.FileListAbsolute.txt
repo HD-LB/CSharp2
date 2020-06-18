@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\20.JoroTheRabbit\bin\Debug\20.JoroTheRabbit.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\20.JoroTheRabbit\bin\Debug\20.JoroTheRabbit.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\20.JoroTheRabbit\bin\Debug\20.JoroTheRabbit.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\20.JoroTheRabbit\obj\Debug\20.JoroTheRabbit.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\20.JoroTheRabbit\obj\Debug\20.JoroTheRabbit.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\20.JoroTheRabbit\obj\Debug\20.JoroTheRabbit.pdb

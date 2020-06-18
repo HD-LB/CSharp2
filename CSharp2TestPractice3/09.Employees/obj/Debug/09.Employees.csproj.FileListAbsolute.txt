@@ -1,0 +1,8 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\09.Employees\bin\Debug\09.Employees.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\bin\Debug\09.Employees.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\bin\Debug\09.Employees.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\bin\Debug\09.Employees.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\obj\Debug\09.Employees.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\obj\Debug\09.Employees.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\obj\Debug\09.Employees.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice3\09.Employees\obj\Debug\09.Employees.pdb

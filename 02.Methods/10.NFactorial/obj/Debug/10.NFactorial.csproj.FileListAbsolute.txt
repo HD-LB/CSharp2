@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\10.NFactorial\bin\Debug\10.NFactorial.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\10.NFactorial\bin\Debug\10.NFactorial.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\10.NFactorial\bin\Debug\10.NFactorial.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\10.NFactorial\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\10.NFactorial\obj\Debug\10.NFactorial.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\10.NFactorial\obj\Debug\10.NFactorial.pdb

@@ -1,0 +1,2 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\CSharp2TestPractice1\01.TRES4Numbers\bin\Debug\01.TRES4Numbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\01.TRES4Numbers\bin\Debug\01.TRES4Numbers.exe.config

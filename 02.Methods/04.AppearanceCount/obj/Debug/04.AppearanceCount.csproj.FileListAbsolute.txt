@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb

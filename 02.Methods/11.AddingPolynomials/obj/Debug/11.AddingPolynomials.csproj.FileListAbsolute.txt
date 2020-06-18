@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb

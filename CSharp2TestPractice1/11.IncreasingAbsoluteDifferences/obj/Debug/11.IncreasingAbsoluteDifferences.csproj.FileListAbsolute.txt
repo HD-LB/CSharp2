@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\11.IncreasingAbsoluteDifferences\bin\Debug\11.IncreasingAbsoluteDifferences.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\11.IncreasingAbsoluteDifferences\bin\Debug\11.IncreasingAbsoluteDifferences.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\11.IncreasingAbsoluteDifferences\bin\Debug\11.IncreasingAbsoluteDifferences.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\11.IncreasingAbsoluteDifferences\obj\Debug\11.IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\11.IncreasingAbsoluteDifferences\obj\Debug\11.IncreasingAbsoluteDifferences.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\11.IncreasingAbsoluteDifferences\obj\Debug\11.IncreasingAbsoluteDifferences.pdb

@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeIvailo\bin\Debug\PracticeIvailo.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeIvailo\bin\Debug\PracticeIvailo.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeIvailo\bin\Debug\PracticeIvailo.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeIvailo\obj\Debug\PracticeIvailo.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeIvailo\obj\Debug\PracticeIvailo.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\PracticeIvailo\obj\Debug\PracticeIvailo.pdb

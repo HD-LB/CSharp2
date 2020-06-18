@@ -1,0 +1,2 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\08.DynamicProgramming\01.MinAndMax\bin\Debug\01.MinAndMax.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\08.DynamicProgramming\01.MinAndMax\bin\Debug\01.MinAndMax.exe.config

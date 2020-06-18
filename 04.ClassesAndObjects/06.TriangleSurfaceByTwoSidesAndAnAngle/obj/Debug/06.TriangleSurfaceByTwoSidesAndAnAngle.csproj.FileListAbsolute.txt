@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\06.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\06.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\06.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\06.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\ClassesAndObjects\06.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.pdb

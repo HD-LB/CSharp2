@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\12.TwoGirlsOnePath\bin\Debug\12.TwoGirlsOnePath.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\12.TwoGirlsOnePath\bin\Debug\12.TwoGirlsOnePath.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\12.TwoGirlsOnePath\bin\Debug\12.TwoGirlsOnePath.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\12.TwoGirlsOnePath\obj\Debug\12.TwoGirlsOnePath.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\12.TwoGirlsOnePath\obj\Debug\12.TwoGirlsOnePath.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\12.TwoGirlsOnePath\obj\Debug\12.TwoGirlsOnePath.pdb

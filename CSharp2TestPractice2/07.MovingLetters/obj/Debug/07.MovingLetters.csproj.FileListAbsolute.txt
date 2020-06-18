@@ -1,0 +1,8 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\bin\Debug\07.MovingLetters.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\bin\Debug\07.MovingLetters.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\bin\Debug\07.MovingLetters.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\bin\Debug\07.MovingLetters.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\obj\Debug\07.MovingLetters.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\obj\Debug\07.MovingLetters.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\obj\Debug\07.MovingLetters.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp2\CSharp2TestPractice2\07.MovingLetters\obj\Debug\07.MovingLetters.pdb

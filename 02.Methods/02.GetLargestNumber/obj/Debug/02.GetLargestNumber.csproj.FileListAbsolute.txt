@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.pdb

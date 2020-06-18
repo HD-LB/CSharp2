@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\StringsAndTExtProssesing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.pdb

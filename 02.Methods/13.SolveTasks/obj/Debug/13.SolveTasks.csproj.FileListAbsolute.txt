@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\13.SolveTasks\obj\Debug\13.SolveTasks.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\Methods\13.SolveTasks\obj\Debug\13.SolveTasks.pdb

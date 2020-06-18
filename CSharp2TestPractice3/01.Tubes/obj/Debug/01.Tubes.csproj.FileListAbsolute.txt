@@ -1,0 +1,7 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\CSharp2PracticeTest3\01.Tubes\bin\Debug\01.Tubes.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\01.Tubes\bin\Debug\01.Tubes.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\01.Tubes\bin\Debug\01.Tubes.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\01.Tubes\bin\Debug\01.Tubes.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\01.Tubes\obj\Debug\01.Tubes.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\01.Tubes\obj\Debug\01.Tubes.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice3\01.Tubes\obj\Debug\01.Tubes.pdb

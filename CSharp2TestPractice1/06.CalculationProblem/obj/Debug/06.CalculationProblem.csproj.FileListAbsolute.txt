@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\06.CalculationProblem\bin\Debug\06.CalculationProblem.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\06.CalculationProblem\bin\Debug\06.CalculationProblem.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\06.CalculationProblem\bin\Debug\06.CalculationProblem.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\06.CalculationProblem\obj\Debug\06.CalculationProblem.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\06.CalculationProblem\obj\Debug\06.CalculationProblem.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp2\CSharp2TestPractice1\06.CalculationProblem\obj\Debug\06.CalculationProblem.pdb
